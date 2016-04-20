@@ -10,9 +10,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5870032
 color:
-  saturation: 0.3925886
+  saturation: 0.2185821
   brandStrength: 0.245435
   lightness: 0.2346938
   brandColors:
@@ -21,6 +20,7 @@ color:
     - '#EB7A68'
     - '#014973'
     - '#83807F'
-  rhythmicContrast: 0.9376421
+  rhythmicContrast: 0.2282491
+typography_spectrum: 0.5870032
 layout_spectrum: 0.9661654
 name: JENJA
