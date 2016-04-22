@@ -1,3 +1,7 @@
+name: JENJA
+favicon: null
+layout_spectrum: 0.9661654
+typography_spectrum: 0.5870032
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2185821
-  brandStrength: 0.245435
-  lightness: 0.2346938
   brandColors:
     - '#584C50'
     - '#EEEECC'
     - '#EB7A68'
     - '#014973'
     - '#83807F'
-  rhythmicContrast: 0.2282491
-typography_spectrum: 0.5870032
-layout_spectrum: 0.9661654
-name: JENJA
+  brandStrength: 0.25
+  lightness: 0.1875
+  saturation: 0.8125
+  rhythmicContrast: 0.5
+purpose: []
